@@ -1,0 +1,10 @@
+
+In line number 200 of your output:
+The output should be:
+ Price after tax: N/A
+But your output is: 
+ Price after tax:  N/A
+                  ^
+------------------|
+Professor's character ASCII code: hex(4e), dec(78)
+un-matched character ASCII code: hex(20), dec(32)
